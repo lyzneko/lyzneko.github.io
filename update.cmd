@@ -1,3 +1,3 @@
 git add .
-git commit -m "New Blog"
+git commit -m "Update"
 git push
